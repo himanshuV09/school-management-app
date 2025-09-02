@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/school-management-app/static/css/main.e224409a.css",
+    "main.js": "/school-management-app/static/js/main.5ddcba0c.js",
+    "index.html": "/school-management-app/index.html",
+    "main.e224409a.css.map": "/school-management-app/static/css/main.e224409a.css.map",
+    "main.5ddcba0c.js.map": "/school-management-app/static/js/main.5ddcba0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e224409a.css",
+    "static/js/main.5ddcba0c.js"
+  ]
+}
